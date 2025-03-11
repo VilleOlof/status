@@ -8,6 +8,8 @@ Command to open up the status menu:
 
 This uses teams to change the players prefix to the status they have chosen.  
 
+> Made for Minecraft **1.18.2** - **1.20.6**  
+
 ## The status menu
 
 ![The status menu](status.png)
